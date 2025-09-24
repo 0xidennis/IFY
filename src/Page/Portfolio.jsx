@@ -120,17 +120,6 @@ const Portfolio = () => {
 
   const experience = [
     {
-      company: 'Sail Innovations Lab ',
-      position: ' Full Stack Developer',
-      duration: 'Aug 2024 - March 2025',
-      description: 'Technical lead, me and my team built a responsive website for an organization.',
-      achievements: [
-        'Improved application performance by 40%',
-        'Technical lead of 4 developers',
-        
-      ]
-    },
-    {
       company: 'FromAfrica',
       position: 'Frontend Developer',
       duration: 'Jan 2025 - present',
@@ -142,12 +131,24 @@ const Portfolio = () => {
       ]
     },
     {
+      company: 'Sail Innovations Lab ',
+      position: ' Full Stack Developer',
+      duration: 'Aug 2024 - March 2025',
+      description: 'Technical lead, me and my team built a responsive website for an organization.',
+      achievements: [
+        'Improved application performance by 40%',
+        'Technical lead of 4 developers',
+        
+      ]
+    },
+    
+    {
       company: 'DigiPlus',
       position: 'Intern',
       duration: 'march 2023 - June 2023',
       description: 'Created websites for clients using modern web technologies and content management systems.',
       achievements: [
-        'Delivered 20+ client projects on time',
+        'Delivered  client projects on time',
         'Learned full-stack development',
         'Collaborated with design and marketing teams'
       ]
