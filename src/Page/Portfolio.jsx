@@ -81,8 +81,8 @@ const Portfolio = () => {
       featured: true
     },
     {
-      title: ' Management App',
-      description: 'A user friendly landing page of a management web.',
+      title: ' E-commeerce',
+      description: 'Fronted e-commerce solution with React, Node.js, and Stripe integration. Features include user authentication, product management, shopping cart, and payment processing.',
       image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=800&h=400',
       tech: ['React', 'Tailwind', 'Socket.io', ],
       github: 'https://github.com/0xidennis',
