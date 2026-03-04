@@ -81,7 +81,7 @@ const Portfolio = () => {
       featured: true
     },
     {
-      title: ' E-commeerce',
+      title: ' E-commerce',
       description: 'Fronted e-commerce solution with React, Node.js, and Stripe integration. Features include user authentication, product management, shopping cart, and payment processing.',
       image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=800&h=400',
       tech: ['React', 'Tailwind', 'Socket.io', ],
@@ -234,7 +234,7 @@ const Portfolio = () => {
                   View My Work
                 </button>
                 <a
-                  href="/https://docs.google.com/document/d/17JtqhcqO_hAEFl5IDMRkY5TMuLbVu3-5/edit?usp=sharing&ouid=108532287944352476638&rtpof=true&sd=true"
+                  href="/Resume.pdf"
                   download
                   className="px-8 py-4 border-2 border-gray-300 text-gray-700 font-medium rounded-lg hover:border-blue-600 hover:text-blue-600 transition-colors flex items-center justify-center gap-2"
                 >
