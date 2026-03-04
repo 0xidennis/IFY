@@ -77,7 +77,7 @@ const Portfolio = () => {
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800&h=400',
       tech: ['React', 'Tailwind', 'Socket.io','chart.js',],
       github: 'https://github.com/0xidennis',
-      live: 'https://africa-sand.vercel.app/',
+      live: 'https://fromafricab2b.com/ ',
       featured: true
     },
     {
