@@ -122,10 +122,10 @@ const Portfolio = () => {
     {
       company: 'FromAfrica',
       position: 'Frontend Developer',
-      duration: 'Jan 2025 - present',
+      duration: 'Jan 2025 - jan 2026',
       description: 'Developed responsive web applications and collaborated with UX/UI designers to create user-friendly interfaces.',
       achievements: [
-        'Built 10+ responsive web applications',
+        'Built responsive web applications',
         'Reduced page load time by 50%',
         'Implemented modern React patterns and hooks'
       ]
@@ -234,7 +234,7 @@ const Portfolio = () => {
                   View My Work
                 </button>
                 <a
-                  href="/Resume.pdf"
+                  href="/Menewe cv.docx.pdf"
                   download
                   className="px-8 py-4 border-2 border-gray-300 text-gray-700 font-medium rounded-lg hover:border-blue-600 hover:text-blue-600 transition-colors flex items-center justify-center gap-2"
                 >
